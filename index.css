@@ -1,0 +1,61 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:forestgreen;
+    background-size: cover;
+    background-image: url("https://thumbs.dreamstime.com/b/blackjack-table-top-view-blackjack-table-top-view-vector-illustration-114976767.jpg");
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+
+button {
+    background-color: goldenrod;
+    width:150px;
+    border: 3px;
+    border-color:goldenrod ;
+    border-radius: 5cm;
+   /* background-image: url("https://thumbs.dreamstime.com/b/blackjack-table-top-view-blackjack-table-top-view-vector-illustration-114976767.jpg"); */
+    padding-top:5px;
+    padding-bottom:5px;
+   
+
+    }
+
+img {
+    height: 250px;
+    width: 125px;
+}
+#card1{
+    height: 250px;
+    width: 125px;
+    background-color: rgb(32, 218, 162);
+    display: inline-block ;
+
+}
+#card2{
+    height: 250px;
+    width: 125px;
+    background-color: rgb(218, 32, 32);
+    display: inline-block;
+}
+
+#card3{
+    height: 250px;
+    width: 125px;
+    padding: right;
+    background-color: rgb(218, 32, 72);
+    display: inline-block;
+}
+#card4{
+    height: 250px;
+    width: 125px;
+   
+    
+    background-color: rgb(35, 32, 218);
+    display: inline-block;
+}
